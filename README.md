@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tawanna Hakkinen</h1>
-<h3 align="center">A Software Engineer learning Flutter and Java Spring</h3>
+<h3 align="center">A Software Engineer learning Java and Java Spring</h3>
 
-- 🌱 I’m currently learning **Flutter and Java Spring**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 📫 How to reach me **thol_16@hotmail.com**
 
